@@ -6,7 +6,7 @@
   </div>
   <div class="column">
            <a herf="https://play.google.com/store/apps/details?id=com.adcreations.shorttermscheduling&fbclid=IwAR1wO1vSRGlTIxFgpkorBVpzavhFOfa-61UpNbJ00rujtqc4mUCQXWN9LAE">
-    <img src='https://github.com/imaryandokania/CPU-Scheduling/blob/master/en_get.svg' alt='linkedin'  width='150' height='136'></a?
+    <img src='https://github.com/imaryandokania/CPU-Scheduling/blob/master/en_get.svg' alt='linkedin'  width='150' height='135'></a?
   </div>
  
  
