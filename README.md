@@ -1,4 +1,5 @@
-# CPU-Scheduling[![Bintray](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FAryanDokania)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/followers/imaryandokania?style=social)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/license/imaryandokania/VITgram)](https://bintray.com/blocke/releases/scalajack)    <div class="row">
+# CPU-Scheduling[![Bintray](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FAryanDokania)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/followers/imaryandokania?style=social)](https://bintray.com/blocke/releases/scalajack) [![Bintray](https://img.shields.io/github/license/imaryandokania/VITgram)](https://bintray.com/blocke/releases/scalajack)  
+<div class="row">
   <div class="column">
            <a herf="https://play.google.com/store/apps/details?id=com.adcreations.shorttermscheduling&fbclid=IwAR1wO1vSRGlTIxFgpkorBVpzavhFOfa-61UpNbJ00rujtqc4mUCQXWN9LAE">
    <img src='https://github.com/imaryandokania/CPU-Scheduling/blob/master/512x512.png' alt='linkedin' width="148" height="135"></a>
